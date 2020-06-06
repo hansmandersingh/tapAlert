@@ -1,0 +1,10 @@
+Package: com.yourcompany.tapalert
+Name: TapAlert
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Hansmander Singh
+Author: Hansmander Singh
+Section: Tweaks
+Version: 0.0.1-2+debug
+Installed-Size: 152
